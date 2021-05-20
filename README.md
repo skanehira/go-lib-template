@@ -5,15 +5,13 @@
 ![GitHub Release Status](https://img.shields.io/github/workflow/status/skanehira/go-lib-template/Release?label=release)
 
 # go-lib-template
-This is template that help you to quick implement some CLI using Go.
+This is template that help you to quick implement some library using Go.
 
 This repository is contains following.
 
-- minimal CLI implementation using [spf13/cobra](https://github.com/spf13/cobra)
 - CI/CD
   - golangci-lint
   - go test
-  - goreleaser
   - dependabot for github-actions and Go
   - CodeQL Analysis (Go)
 
